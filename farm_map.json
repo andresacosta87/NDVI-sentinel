@@ -1,0 +1,2612 @@
+{
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "setup": {
+        "variable": {
+            "id": 551,
+            "name": "Rendimiento",
+            "category": "Production",
+            "requires_time": false,
+            "project": 243,
+            "cartography": 747,
+            "measurement_unit": "Kg/Ha"
+        },
+        "cartography": {
+            "id": 747,
+            "name": "Cartograf\u00eda de lote",
+            "unit_name": "lote"
+        },
+        "measurement_unit": "Kg/Ha",
+        "legend": [],
+        "data_type": "float",
+        "real_setup": false,
+        "inverted_legend": false,
+        "display_total_in_dashboard": false,
+        "variable_group": null
+    },
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.6396578867764,
+                            -14.199701335951724
+                        ],
+                        [
+                            -75.64231663022875,
+                            -14.20062882414364
+                        ],
+                        [
+                            -75.64298408105815,
+                            -14.198802571721302
+                        ],
+                        [
+                            -75.64032613621433,
+                            -14.197876401443217
+                        ],
+                        [
+                            -75.6396578867764,
+                            -14.199701335951724
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 3581.158766439885,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.53060080697,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-1",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "36",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90214,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-1.36",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-1.36"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.64231663022875,
+                            -14.20062882414364
+                        ],
+                        [
+                            -75.64498414018,
+                            -14.20155933262638
+                        ],
+                        [
+                            -75.64565052221766,
+                            -14.199731664766256
+                        ],
+                        [
+                            -75.64298408105815,
+                            -14.198802571721302
+                        ],
+                        [
+                            -75.64231663022875,
+                            -14.20062882414364
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 4037.3751791811173,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.55506911185,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-1",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "37",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90215,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-1.37",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-1.37"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.63898926117189,
+                            -14.201527268326426
+                        ],
+                        [
+                            -75.64164955317383,
+                            -14.202454024468352
+                        ],
+                        [
+                            -75.64231663022875,
+                            -14.20062882414364
+                        ],
+                        [
+                            -75.6396578867764,
+                            -14.199701335951724
+                        ],
+                        [
+                            -75.63898926117189,
+                            -14.201527268326426
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 4658.420440484501,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.53325350488,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-1",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "42",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90216,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-1.42",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-1.42"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.64164955317383,
+                            -14.202454024468352
+                        ],
+                        [
+                            -75.64431888131925,
+                            -14.203383890611855
+                        ],
+                        [
+                            -75.64498414018,
+                            -14.20155933262638
+                        ],
+                        [
+                            -75.64231663022875,
+                            -14.20062882414364
+                        ],
+                        [
+                            -75.64164955317383,
+                            -14.202454024468352
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 4196.272165747293,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.55101295726,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-1",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "43",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90217,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-1.43",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-1.43"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.64164955317383,
+                            -14.202454024468352
+                        ],
+                        [
+                            -75.63898926117189,
+                            -14.201527268326426
+                        ],
+                        [
+                            -75.63832124398837,
+                            -14.203351509792409
+                        ],
+                        [
+                            -75.64098212423809,
+                            -14.20428015816881
+                        ],
+                        [
+                            -75.64164955317383,
+                            -14.202454024468352
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 4744.580970357842,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.53464591788,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-1",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "48",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90218,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-1.48",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-1.48"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.64431888131925,
+                            -14.203383890611855
+                        ],
+                        [
+                            -75.64164955317383,
+                            -14.202454024468352
+                        ],
+                        [
+                            -75.64098212423809,
+                            -14.20428015816881
+                        ],
+                        [
+                            -75.64365231081416,
+                            -14.20521201651521
+                        ],
+                        [
+                            -75.64431888131925,
+                            -14.203383890611855
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 4914.518933170159,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.56250600284,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-1",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "49",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90219,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-1.49",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-1.49"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.63765710540375,
+                            -14.20516513033943
+                        ],
+                        [
+                            -75.64031869971863,
+                            -14.206095306337506
+                        ],
+                        [
+                            -75.64098212423809,
+                            -14.20428015816881
+                        ],
+                        [
+                            -75.63832124398837,
+                            -14.203351509792409
+                        ],
+                        [
+                            -75.63765710540375,
+                            -14.20516513033943
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 3081.5154889943,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.49869143982,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-2",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "54",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90221,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-2.54",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-2.54"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.64031869971863,
+                            -14.206095306337506
+                        ],
+                        [
+                            -75.64298986878343,
+                            -14.20702879053244
+                        ],
+                        [
+                            -75.64365231081416,
+                            -14.20521201651521
+                        ],
+                        [
+                            -75.64098212423809,
+                            -14.20428015816881
+                        ],
+                        [
+                            -75.64031869971863,
+                            -14.206095306337506
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 2970.0807760737507,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.52577649946,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-2",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "55",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90222,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-2.55",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-2.55"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.64031869971863,
+                            -14.206095306337506
+                        ],
+                        [
+                            -75.63765710540375,
+                            -14.20516513033943
+                        ],
+                        [
+                            -75.6369858615888,
+                            -14.206998124239671
+                        ],
+                        [
+                            -75.63965014888008,
+                            -14.207924450844159
+                        ],
+                        [
+                            -75.64031869971863,
+                            -14.206095306337506
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 4789.354613313465,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.5612069281,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-3",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "60",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90224,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-3.60",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-3.60"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.64298986878343,
+                            -14.20702879053244
+                        ],
+                        [
+                            -75.64031869971863,
+                            -14.206095306337506
+                        ],
+                        [
+                            -75.63965014888008,
+                            -14.207924450844159
+                        ],
+                        [
+                            -75.64232428108325,
+                            -14.20885416235629
+                        ],
+                        [
+                            -75.64298986878343,
+                            -14.20702879053244
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 4222.732171703558,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.56978086034,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-3",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "61",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90225,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-3.61",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-3.61"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.63632248518424,
+                            -14.208809605114135
+                        ],
+                        [
+                            -75.63898670766262,
+                            -14.209739586312066
+                        ],
+                        [
+                            -75.63965014888008,
+                            -14.207924450844159
+                        ],
+                        [
+                            -75.6369858615888,
+                            -14.206998124239671
+                        ],
+                        [
+                            -75.63632248518424,
+                            -14.208809605114135
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 6276.873684788184,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.50028879327,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-4",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "66",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90227,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-4.66",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-4.66"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.63898670766262,
+                            -14.209739586312066
+                        ],
+                        [
+                            -75.64166104353744,
+                            -14.210673059652205
+                        ],
+                        [
+                            -75.64232428108325,
+                            -14.20885416235629
+                        ],
+                        [
+                            -75.63965014888008,
+                            -14.207924450844159
+                        ],
+                        [
+                            -75.63898670766262,
+                            -14.209739586312066
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 5119.125264626776,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.53634360175,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-4",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "67",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90228,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-4.67",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-4.67"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.63565550101005,
+                            -14.210630908493748
+                        ],
+                        [
+                            -75.63832148728072,
+                            -14.211559560260621
+                        ],
+                        [
+                            -75.63898670766262,
+                            -14.209739586312066
+                        ],
+                        [
+                            -75.63632248518424,
+                            -14.208809605114135
+                        ],
+                        [
+                            -75.63565550101005,
+                            -14.210630908493748
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 5492.066598919182,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.52929688381,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-4",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "72",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90229,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-4.72",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-4.72"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.63832148728072,
+                            -14.211559560260621
+                        ],
+                        [
+                            -75.64099785604193,
+                            -14.212491790499048
+                        ],
+                        [
+                            -75.64166104353744,
+                            -14.210673059652205
+                        ],
+                        [
+                            -75.63898670766262,
+                            -14.209739586312066
+                        ],
+                        [
+                            -75.63832148728072,
+                            -14.211559560260621
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 5500.603222883152,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.54813333566,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-4",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "73",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90230,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-4.73",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-4.73"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.63498773608408,
+                            -14.212454314475199
+                        ],
+                        [
+                            -75.63765440850564,
+                            -14.213384589206255
+                        ],
+                        [
+                            -75.63832148728072,
+                            -14.211559560260621
+                        ],
+                        [
+                            -75.63565550101005,
+                            -14.210630908493748
+                        ],
+                        [
+                            -75.63498773608408,
+                            -14.212454314475199
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 5779.100809810456,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.54487342837,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-4",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "78",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90231,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-4.78",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-4.78"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.63765440850564,
+                            -14.213384589206255
+                        ],
+                        [
+                            -75.64033173320622,
+                            -14.214318541860234
+                        ],
+                        [
+                            -75.64099785604193,
+                            -14.212491790499048
+                        ],
+                        [
+                            -75.63832148728072,
+                            -14.211559560260621
+                        ],
+                        [
+                            -75.63765440850564,
+                            -14.213384589206255
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 5194.8620884443,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.57506867718,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-4",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "79",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90232,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-4.79",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-4.79"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.63765440850564,
+                            -14.213384589206255
+                        ],
+                        [
+                            -75.63498773608408,
+                            -14.212454314475199
+                        ],
+                        [
+                            -75.63434467014613,
+                            -14.214210249364346
+                        ],
+                        [
+                            -75.6370121373286,
+                            -14.215141720430472
+                        ],
+                        [
+                            -75.63765440850564,
+                            -14.213384589206255
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 5348.496340542419,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.30463177929,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-4",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "84",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90233,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-4.84",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-4.84"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.64033173320622,
+                            -14.214318541860234
+                        ],
+                        [
+                            -75.63765440850564,
+                            -14.213384589206255
+                        ],
+                        [
+                            -75.6370121373286,
+                            -14.215141720430472
+                        ],
+                        [
+                            -75.63969051649624,
+                            -14.216076963730377
+                        ],
+                        [
+                            -75.64033173320622,
+                            -14.214318541860234
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 5390.6656650079785,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.33301348136,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-4",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "85",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90234,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-4.85",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-4.85"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.64434649855319,
+                            -14.19514832766311
+                        ],
+                        [
+                            -75.6469826482682,
+                            -14.196068495618299
+                        ],
+                        [
+                            -75.64763941311051,
+                            -14.194268700147708
+                        ],
+                        [
+                            -75.64499855304082,
+                            -14.193355636804679
+                        ],
+                        [
+                            -75.64434649855319,
+                            -14.19514832766311
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 4245.59610452465,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.37224612609,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-5",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "19",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90250,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-5.19",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-5.19"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.6523179645351,
+                            -14.19796021341869
+                        ],
+                        [
+                            -75.64968970670726,
+                            -14.19704295019232
+                        ],
+                        [
+                            -75.64903310741902,
+                            -14.198829012819262
+                        ],
+                        [
+                            -75.65166673445216,
+                            -14.19973524297276
+                        ],
+                        [
+                            -75.6523179645351,
+                            -14.19796021341869
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 4589.172339437979,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.30231543528,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-5",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "27",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90251,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-5.27",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-5.27"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.64364239237688,
+                            -14.19694295233761
+                        ],
+                        [
+                            -75.64100407458932,
+                            -14.196024977214783
+                        ],
+                        [
+                            -75.64034854294998,
+                            -14.197815209973353
+                        ],
+                        [
+                            -75.64299030950156,
+                            -14.198732364113775
+                        ],
+                        [
+                            -75.64364239237688,
+                            -14.19694295233761
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 4703.701322623691,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.35530963376,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-5",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "30",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90246,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-5.30",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-5.30"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.64632350714204,
+                            -14.197881148780363
+                        ],
+                        [
+                            -75.64368793366349,
+                            -14.196958888817509
+                        ],
+                        [
+                            -75.64303695733564,
+                            -14.198748558721634
+                        ],
+                        [
+                            -75.6456719606107,
+                            -14.199663327203533
+                        ],
+                        [
+                            -75.64632350714204,
+                            -14.197881148780363
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 4719.9518967964505,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.33082617225,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-5",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "31",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90247,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-5.31",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-5.31"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.65166673445216,
+                            -14.19973524297276
+                        ],
+                        [
+                            -75.64903310741902,
+                            -14.198829012819262
+                        ],
+                        [
+                            -75.64838136235278,
+                            -14.200601843300658
+                        ],
+                        [
+                            -75.65101420044942,
+                            -14.201513798702576
+                        ],
+                        [
+                            -75.65166673445216,
+                            -14.19973524297276
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 5116.360841332233,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.28788397216,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-5",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "33",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90248,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-5.33",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-5.33"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.64497315728985,
+                            -14.193291049214046
+                        ],
+                        [
+                            -75.64561150025328,
+                            -14.19152729602969
+                        ],
+                        [
+                            -75.64298681968795,
+                            -14.190610001340819
+                        ],
+                        [
+                            -75.64234056627969,
+                            -14.192374980072382
+                        ],
+                        [
+                            -75.64497315728985,
+                            -14.193291049214046
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 537.1202632311536,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.23795432115,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-6",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "13",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90236,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-6.13",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-6.13"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.64769678112165,
+                            -14.194238756458473
+                        ],
+                        [
+                            -75.6503295117525,
+                            -14.19515473241042
+                        ],
+                        [
+                            -75.65097557981476,
+                            -14.193401863929907
+                        ],
+                        [
+                            -75.64833882668778,
+                            -14.192480425330247
+                        ],
+                        [
+                            -75.64769678112165,
+                            -14.194238756458473
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 758.980571201504,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.22668991318,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-6",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "14",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90237,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-6.14",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-6.14"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.6503776656775,
+                            -14.195171553670908
+                        ],
+                        [
+                            -75.65300561141882,
+                            -14.196085894026025
+                        ],
+                        [
+                            -75.6536477328085,
+                            -14.19433563553714
+                        ],
+                        [
+                            -75.65102490147048,
+                            -14.193419099501112
+                        ],
+                        [
+                            -75.6503776656775,
+                            -14.195171553670908
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 791.561625424644,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.1919436751,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-6",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "15",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90238,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-6.15",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-6.15"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.64166749773169,
+                            -14.194213164268845
+                        ],
+                        [
+                            -75.64430202199843,
+                            -14.195132802468311
+                        ],
+                        [
+                            -75.64495509648042,
+                            -14.193340612718584
+                        ],
+                        [
+                            -75.64232051249415,
+                            -14.192429748404132
+                        ],
+                        [
+                            -75.64166749773169,
+                            -14.194213164268845
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 767.2799291882275,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.33470021579,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-6",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "18",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90239,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-6.18",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-6.18"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.64701007809187,
+                            -14.196107720636288
+                        ],
+                        [
+                            -75.64964409685477,
+                            -14.19702703200722
+                        ],
+                        [
+                            -75.65031370091558,
+                            -14.19520360884109
+                        ],
+                        [
+                            -75.64768215179517,
+                            -14.194283408687362
+                        ],
+                        [
+                            -75.64768057519815,
+                            -14.194282863638566
+                        ],
+                        [
+                            -75.64701007809187,
+                            -14.196107720636288
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 1474.8459764210165,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.46918400466,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-6",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "20",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90240,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-6.20",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-6.20"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.64968970670726,
+                            -14.19704295019232
+                        ],
+                        [
+                            -75.6523179645351,
+                            -14.19796021341869
+                        ],
+                        [
+                            -75.65298643203063,
+                            -14.196138171712002
+                        ],
+                        [
+                            -75.65035993815069,
+                            -14.195219776748338
+                        ],
+                        [
+                            -75.64968970670726,
+                            -14.19704295019232
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 920.4547379474349,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.44833264288,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-6",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "21",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90241,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-6.21",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-6.21"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.64430202199843,
+                            -14.195132802468311
+                        ],
+                        [
+                            -75.64166749773169,
+                            -14.194213164268845
+                        ],
+                        [
+                            -75.64100407458932,
+                            -14.196024977214783
+                        ],
+                        [
+                            -75.64364239237688,
+                            -14.19694295233761
+                        ],
+                        [
+                            -75.64430202199843,
+                            -14.195132802468311
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 746.8765918999529,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.42363595945,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-6",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "24",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90242,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-6.24",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-6.24"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.6469826482682,
+                            -14.196068495618299
+                        ],
+                        [
+                            -75.64434649855319,
+                            -14.19514832766311
+                        ],
+                        [
+                            -75.64368793366349,
+                            -14.196958888817509
+                        ],
+                        [
+                            -75.64632350714204,
+                            -14.197881148780363
+                        ],
+                        [
+                            -75.6469826482682,
+                            -14.196068495618299
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 1808.8183141168263,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.42333721929,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-6",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "25",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90243,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-6.25",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-6.25"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.64964409685477,
+                            -14.19702703200722
+                        ],
+                        [
+                            -75.64701007809187,
+                            -14.196107720636288
+                        ],
+                        [
+                            -75.6463550733476,
+                            -14.1978903845171
+                        ],
+                        [
+                            -75.64898805011781,
+                            -14.198813508297691
+                        ],
+                        [
+                            -75.64964409685477,
+                            -14.19702703200722
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 1151.5213313888864,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.32957445192,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-6",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "26",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90244,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-6.26",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-6.26"
+                }
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.64898805011781,
+                            -14.198813508297691
+                        ],
+                        [
+                            -75.6463550733476,
+                            -14.1978903845171
+                        ],
+                        [
+                            -75.64570305607081,
+                            -14.199674100957658
+                        ],
+                        [
+                            -75.64833695882908,
+                            -14.200586462611307
+                        ],
+                        [
+                            -75.64898805011781,
+                            -14.198813508297691
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "values": [
+                    {
+                        "value": 755.4045733546169,
+                        "variety": {},
+                        "measurement_unit": "Kg/Ha",
+                        "date_stamp": "2019-09-19",
+                        "metadata": null,
+                        "time_stamp": null
+                    }
+                ],
+                "unit": {
+                    "state": {
+                        "area": 6.30273741375,
+                        "year_of_planting": [
+                            "2019"
+                        ],
+                        "variety": [
+                            "hass, fuerte, zutano"
+                        ]
+                    },
+                    "metadata": [
+                        {
+                            "level_name": "empresa",
+                            "name": "agricola chapi",
+                            "level": 2
+                        },
+                        {
+                            "level_name": "fundo",
+                            "name": "don ernesto",
+                            "level": 1
+                        },
+                        {
+                            "level_name": "grupo",
+                            "name": "pal-6",
+                            "level": 0
+                        },
+                        {
+                            "level_name": "lote",
+                            "name": "32",
+                            "level": -1
+                        }
+                    ],
+                    "id": 90249,
+                    "full_name": "lote AGRICOLA CHAPI.DON ERNESTO.PAL-6.32",
+                    "name": "AGRICOLA CHAPI.DON ERNESTO.PAL-6.32"
+                }
+            }
+        }
+    ]
+}
